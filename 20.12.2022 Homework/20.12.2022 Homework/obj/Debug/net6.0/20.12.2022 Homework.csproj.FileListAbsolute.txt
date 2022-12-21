@@ -1,0 +1,15 @@
+C:\Users\CASPER\Desktop\20.12.2022 Homework\20.12.2022 Homework\20.12.2022 Homework\bin\Debug\net6.0\20.12.2022 Homework.exe
+C:\Users\CASPER\Desktop\20.12.2022 Homework\20.12.2022 Homework\20.12.2022 Homework\bin\Debug\net6.0\20.12.2022 Homework.deps.json
+C:\Users\CASPER\Desktop\20.12.2022 Homework\20.12.2022 Homework\20.12.2022 Homework\bin\Debug\net6.0\20.12.2022 Homework.runtimeconfig.json
+C:\Users\CASPER\Desktop\20.12.2022 Homework\20.12.2022 Homework\20.12.2022 Homework\bin\Debug\net6.0\20.12.2022 Homework.dll
+C:\Users\CASPER\Desktop\20.12.2022 Homework\20.12.2022 Homework\20.12.2022 Homework\bin\Debug\net6.0\20.12.2022 Homework.pdb
+C:\Users\CASPER\Desktop\20.12.2022 Homework\20.12.2022 Homework\20.12.2022 Homework\obj\Debug\net6.0\20.12.2022 Homework.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\20.12.2022 Homework\20.12.2022 Homework\20.12.2022 Homework\obj\Debug\net6.0\20.12.2022 Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASPER\Desktop\20.12.2022 Homework\20.12.2022 Homework\20.12.2022 Homework\obj\Debug\net6.0\20.12.2022 Homework.AssemblyInfoInputs.cache
+C:\Users\CASPER\Desktop\20.12.2022 Homework\20.12.2022 Homework\20.12.2022 Homework\obj\Debug\net6.0\20.12.2022 Homework.AssemblyInfo.cs
+C:\Users\CASPER\Desktop\20.12.2022 Homework\20.12.2022 Homework\20.12.2022 Homework\obj\Debug\net6.0\20.12.2022 Homework.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\20.12.2022 Homework\20.12.2022 Homework\20.12.2022 Homework\obj\Debug\net6.0\20.12.2022 Homework.dll
+C:\Users\CASPER\Desktop\20.12.2022 Homework\20.12.2022 Homework\20.12.2022 Homework\obj\Debug\net6.0\refint\20.12.2022 Homework.dll
+C:\Users\CASPER\Desktop\20.12.2022 Homework\20.12.2022 Homework\20.12.2022 Homework\obj\Debug\net6.0\20.12.2022 Homework.pdb
+C:\Users\CASPER\Desktop\20.12.2022 Homework\20.12.2022 Homework\20.12.2022 Homework\obj\Debug\net6.0\20.12.2022 Homework.genruntimeconfig.cache
+C:\Users\CASPER\Desktop\20.12.2022 Homework\20.12.2022 Homework\20.12.2022 Homework\obj\Debug\net6.0\ref\20.12.2022 Homework.dll
